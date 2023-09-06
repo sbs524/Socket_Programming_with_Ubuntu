@@ -8,4 +8,5 @@
 - 포트와 ip주소를 입력받아 프로그램 실행
 - 입력 예외처리를 통해 올바른 값만 입력 받기
 
-- 
+
+<img src = "https://github.com/sbs524/Socket_Programming_with_Ubuntu/assets/80670002/abffb980-5cf8-4e56-ba52-76d4c8b908c0">
