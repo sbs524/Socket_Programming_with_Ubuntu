@@ -9,4 +9,5 @@
 - 입력 예외처리를 통해 올바른 값만 입력 받기
 
 
-<img src = "https://github.com/sbs524/Socket_Programming_with_Ubuntu/assets/80670002/abffb980-5cf8-4e56-ba52-76d4c8b908c0">
+
+https://github.com/sbs524/Socket_Programming_with_Ubuntu/assets/80670002/0e654dfe-7e62-4e04-a380-6d8e0d81af1f
